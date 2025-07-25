@@ -1,0 +1,18 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="x(k;V*E-d$VPGe#V:erD">myMole</variable><variable type="KIND_SpriteKind" id="rLqnB+hZ26G)f|_V6+T_">Player</variable><variable type="KIND_SpriteKind" id="gbVZjH2yE3kam+@(Bczd">Projectile</variable><variable type="KIND_SpriteKind" id="X;G3D03qqE.28$Fjz~/9">Food</variable><variable type="KIND_SpriteKind" id="bQ6%wlVhie87R}f|e4he">Enemy</variable><variable type="KIND_SpriteKind" id="``O-H!}|4x/Kdt?O2SHP">Text</variable><variable type="KIND_SpriteKind" id="w[hlmFGEB{cEtlWD4h(y">StatusBar</variable><variable type="KIND_SpriteKind" id="+JT1dEr0#3u/@n5bQ~=r">Ball</variable><variable type="KIND_SpriteKind" id="h[bUce}X[n|0dw,#[SSS">Booth</variable><variable type="KIND_SpriteKind" id="9[3pFQxq6F*#sKT$+L{@">Mouse</variable><variable type="KIND_SpriteKind" id="l~|iG0m05*-b!Ob234dq">Crosshair</variable><variable type="KIND_SpriteKind" id=",gCTM*E$u)N$r$g*_?TH">Moon</variable></variables><block type="pxt-on-start" id="i3)[8zr+bH_3uA-a#[;O" x="0" y="0"><statement name="HANDLER"><block type="gamesetbackgroundimage" id="T_UD{b700i$g+dACxy#+"><value name="img"><shadow type="background_image_picker" id="4U:IHkNw~|szW=1,vd9P"><field name="img">assets.image`grid`</field><data>{"commentRefs":[],"fieldData":{"img":"myImages./LJ4HDC9/+6j@JGvC7#:"}}</data></shadow></value><next><block type="variables_set" id="eTyN,Pi0]W4(cq1[F[tn"><field name="VAR" id="x(k;V*E-d$VPGe#V:erD">myMole</field><value name="VALUE"><shadow type="math_number" id="X38sSJ@j~{cY]sEplzJB"><field name="NUM">0</field></shadow><block type="spritescreate" id="S*#4Zp!M^kH0h}gC_t3-"><value name="img"><shadow type="screen_image_picker" id="VxEoW8~h%?TaT=zPJNxn"><field name="img">img`
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . e e e e e e e e e e e e . . 
+. e e e e e e e e e e e e e e . 
+e e e e e e f e e f e e e e e e 
+e e e e e e f e e f e e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e f e e e e e e f e e e e 
+e e e e e f 3 3 3 3 f e e e e e 
+e e e e e e f 3 3 f e e e e e e 
+e e e e e f e e e e f e e e e e 
+e e e e e e e e e e e e e e e e 
+e e e f e e e e e e e e f e e e 
+e e e e f f f f f f f f e e e e 
+e e e e e e e e e e e e e e e e 
+e e e e e e e e e e e e e e e e 
+`</field><data>{"commentRefs":[],"fieldData":{"img":null}}</data></shadow></value><value name="kind"><shadow type="spritekind" id="!$i`^%|nuubrjmA|35=J"><field name="MEMBER">Enemy</field></shadow></value></block></value></block></next></block></statement></block><block type="gameinterval" id="E[)4[ky/L_^#t8}vjnS7" x="-2" y="249"><value name="period"><shadow type="timePicker" id=".SlG~etZV9%q%/Btexl7"><field name="ms">1000</field></shadow></value><statement name="HANDLER"><block type="move_to_random_hole_on_grid" id="?L_v%y4Y_H@rkQZLM_f)"><value name="thisSprite"><block type="variables_get" id="$k-`7]QS)5x]93J8z_46"><field name="VAR" id="x(k;V*E-d$VPGe#V:erD">myMole</field></block></value></block></statement></block></xml>
