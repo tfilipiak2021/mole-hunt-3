@@ -5,22 +5,38 @@ namespace myImages {
         switch(helpers.stringTrim(name)) {
             case "Qv@;p79@e|(fGBFKaJ@[":
             case "mole":return img`
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-. . e e e e e e e e e e e e . . 
-. e e e e e e e e e e e e e e . 
-e e e e e e f e e f e e e e e e 
-e e e e e e f e e f e e e e e e 
-e e e e e e e e e e e e e e e e 
-e e e e f e e e e e e f e e e e 
-e e e e e f 3 3 3 3 f e e e e e 
-e e e e e e f 3 3 f e e e e e e 
-e e e e e f e e e e f e e e e e 
-e e e e e e e e e e e e e e e e 
-e e e f e e e e e e e e f e e e 
-e e e e f f f f f f f f e e e e 
-e e e e e e e e e e e e e e e e 
-e e e e e e e e e e e e e e e e 
+ddddddddddddd55555ddddddddddddd
+ddddddddddd5555511151556dddddddd
+dddddddd5555555515115555ddddddd
+ddddddd5555155111551555115ddddd
+ddddddd55555dd5d555555151116ddd
+dddddd5555d6dddddd5511151115ddd
+dddddd5555dddddd6ddd5511111115dd
+ddddd5555ddddddddddd55111111111d
+ddddd5555dddddddd5ddd5511111111d
+ddddd555d66dddddddddddd55515111d
+dddd5d5dddddd6dddddddd5d5555111d
+d5dd555d6dddddddddddd5dd5555515d
+d5ddd5ddddddd55dddddd555d55551dd
+d6d5dddddd55dddd5dddddd5555551dd
+dd55dd6dddd555ddddddddd5d5555ddd
+dd56dddddd55555dddddd55555551ddd
+ddddd6dddddd555d66d555555555dddd
+dddddd6ddd6ddddddd5511555555dddd
+ddddd666ddddddd6dd5555115555dddd
+dddddd66ddddddddd55555555555dddd
+ddddd6666dddd66dd5555555555ddddd
+dddddd66ddddddddd5555555555ddddd
+dddddd66dd5d6d6dd555555555dddddd
+dddddd6dddddddd55555555555dddddd
+dddddd6dddddddd5555555555ddddddd
+ddddddddddddd5555555555ddddd655
+dddddddddd5dd5d55555555155515555
+ddddddddddd5555555555111111111
+dddddddddd555555155555111111115
+ddddddddd5555555555511111115155
+11dddddddddd55555555511111115155
+1ddddddddd5555555551111111555155
 `;
             case "Oag!`vsg+~Y,+WT2meT;":
             case "hammer":return img`
